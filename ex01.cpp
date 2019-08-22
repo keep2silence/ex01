@@ -21,4 +21,5 @@ main ()
     /// AAA_func func = std::bind(&AAA::show, aaa);
 
     aaa.func ();
+    aaa.func ();
 }
